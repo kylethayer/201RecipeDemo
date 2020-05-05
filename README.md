@@ -5,7 +5,7 @@
 Chop the following into small pieces and then mix together.
 
 - tomatoes
-- onions
+- white onions
 - lemon
 - garlic
 - cilantro
