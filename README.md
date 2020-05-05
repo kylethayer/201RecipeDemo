@@ -10,3 +10,5 @@ Chop the following into small pieces and then mix together.
 - garlic
 - cilantro
 - mango
+
+Now refrigerate it.
