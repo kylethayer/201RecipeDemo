@@ -4,3 +4,4 @@
 
 - tomatoes
 - onions
+- cilantro
